@@ -1,0 +1,15 @@
+{
+    "name": "administrator/docx2pptx",
+    "description": "convert docx to pptx",
+    "type": "pro\tject",
+    "require": {
+        "phpoffice/phpword": "^0.17.0",
+        "phpoffice/phppresentation": "^0.9.0"
+    },
+    "authors": [
+        {
+            "name": "ghosttk",
+            "email": "6400532@qq.com"
+        }
+    ]
+}
